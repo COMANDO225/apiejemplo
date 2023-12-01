@@ -1,0 +1,38 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DB_MASNA_PE_CAUSA")
+}
+
+model Propiedad {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  nombre                 String
+  direccion              String
+  ciudad                 String
+  pais                   String
+  precioPorNoche         Int
+  moneda                 String
+  capacidad              Int?
+  habitaciones           String?
+  banos                  String?
+  amenidades             String[]
+  calificacion           Float?
+  numeroDeCalificaciones Int?
+  imagenes               String[]
+  date                   DateTime?
+  descripcion            String?
+  anfitrion              String
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @updatedAt
+
+  @@map("propiedades_masna")
+}
+
+// Se podria crear mas modelos que combinen con esto
+// pero como a las justas se swift no me arriesgare.

@@ -6,12 +6,9 @@ const prisma = new PrismaClient();
 
 export async function GET(request: NextRequest, response: NextResponse) {
 	try {
-		// get all properties
 		const propiedades = await prisma.propiedad.findMany();
-		// return all properties
 		return NextResponse.json(propiedades);
 	} catch (error) {
-		// return error
 		console.log(error);
 		return NextResponse.json("Error");
 	}

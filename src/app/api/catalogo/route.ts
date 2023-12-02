@@ -14,12 +14,6 @@ export async function GET(request: NextRequest, response: NextResponse) {
 	}
 }
 
-export const config = {
-	api: {
-		bodyParser: false,
-	},
-};
-
 export async function POST(request: NextRequest, response: NextResponse) {
 	try {
 		const body = await request.json();

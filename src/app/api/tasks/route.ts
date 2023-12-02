@@ -94,7 +94,7 @@ export async function DELETE(request: NextRequest, response: NextResponse) {
 				{ status: 404 }
 			);
 
-		const taskDeleted = await prisma.task.delete({
+		await prisma.task.delete({
 			where: { id: task.id },
 		});
 

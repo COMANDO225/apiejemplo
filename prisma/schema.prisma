@@ -34,5 +34,13 @@ model Propiedad {
   @@map("propiedades_masna")
 }
 
-// Se podria crear mas modelos que combinen con esto
-// pero como a las justas se swift no me arriesgare.
+model Task {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  description String?
+  isCompleted Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("tasks")
+}

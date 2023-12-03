@@ -13,8 +13,6 @@ const prisma = new PrismaClient();
 export async function GET(request: NextRequest, response: NextResponse) {
 	try {
 		const tasks = await prisma.task.findMany();
-		if (tasks.length == 0)
-			return NextResponse.json({ message: "No hay tareas", data: tasks });
 		return NextResponse.json(tasks);
 	} catch (error) {
 		console.log(error);

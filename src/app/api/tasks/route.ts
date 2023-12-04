@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { PrismaClient, Task } from "@prisma/client";
+import { PrismaClient } from "@prisma/client";
 import {
 	TaskOnlyIdSchema,
 	TaskSchema,

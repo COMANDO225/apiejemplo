@@ -4,206 +4,109 @@
 		"direccion": "Muy muy lejano",
 		"ciudad": "Ciudad perdida de Ate",
 		"pais": "Perú",
-		"precioPorNoche": 10,
+		"precio": 10.0,
 		"moneda": "USD",
-		"capacidad": 2,
-		"habitaciones": "1",
-		"banos": "10",
-		"amenidades": ["WiFi", "Cocina completa", "Senderos para caminar"],
-		"calificacion": 100,
-		"numeroDeCalificaciones": 942131,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701447735/api-puntos/casita-de-anderson--masna.jpg",
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701447735/api-puntos/casa-de-anderson-masna.jpg"
-		],
-		"descripcion": "Hermosa casa con acceso directo a la arena.",
-		"anfitrion": "Anderson Almeyda"
+		"calificacion": 100.0,
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701447735/api-puntos/casita-de-anderson--masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Cabaña de Madera",
 		"direccion": "789 Camino a la Montaña",
 		"ciudad": "Ciudad de la Montaña",
 		"pais": "Ecuador",
-		"precioPorNoche": 120,
+		"precio": 120.0,
 		"moneda": "USD",
-		"capacidad": 6,
-		"habitaciones": "3",
-		"banos": "2",
-		"amenidades": ["Chimenea", "Vista panorámica"],
 		"calificacion": 4.8,
-		"numeroDeCalificaciones": 25,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-madera-parece-gato.jpg"
-		],
-		"descripcion": "Acogedora casa masna en medio de la naturaleza.",
-		"anfitrion": "Anfitrión1"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-madera-parece-gato.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa con Jardín y Vista al Mar",
 		"direccion": "456 Avenida Index.js",
 		"ciudad": "Ciudad Metropolitana",
 		"pais": "Perú",
-		"precioPorNoche": 80,
+		"precio": 80.0,
 		"moneda": "USD",
-		"capacidad": 8,
-		"habitaciones": "3",
-		"banos": "2",
-		"amenidades": [
-			"WiFi",
-			"TV por cable",
-			"Acceso a la playa",
-			"Balcón con vista al mar"
-		],
 		"calificacion": 4.5,
-		"numeroDeCalificaciones": 20,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-jardin-vista-playa-masna.jpg"
-		],
-		"descripcion": "Cómoda casa moderna con jardín y vista al mar.",
-		"anfitrion": "Anfitrión2"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-jardin-vista-playa-masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa triangular en el bosque",
 		"direccion": "101 Calle de la Villa",
 		"ciudad": "Ciudad rustica",
 		"pais": "País Rural",
-		"precioPorNoche": 300,
+		"precio": 300.0,
 		"moneda": "USD",
-		"capacidad": 12,
-		"habitaciones": "6",
-		"banos": "5",
-		"amenidades": [
-			"Barbacoa",
-			"Rodeada de árboles",
-			"Senderos para caminar"
-		],
 		"calificacion": 4.9,
-		"numeroDeCalificaciones": 50,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-triangular-madera-masna.jpg"
-		],
-		"descripcion": "Espectacular villa de lujo con todas las comodidades imaginables.",
-		"anfitrion": "Anfitrión4"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-triangular-madera-masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa de Campo",
 		"direccion": "202 Camino Rural",
 		"ciudad": "Ciudad Rural",
 		"pais": "País Campestre",
-		"precioPorNoche": 120,
+		"precio": 120.0,
 		"moneda": "USD",
-		"capacidad": 6,
-		"habitaciones": "3",
-		"banos": "2",
-		"amenidades": ["Jardín amplio", "Barbacoa", "Vista a la montaña"],
 		"calificacion": 4.7,
-		"numeroDeCalificaciones": 40,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casita-en-campo-masna.jpg"
-		],
-		"descripcion": "Casa de campo rodeada de naturaleza y tranquilidad.",
-		"anfitrion": "Anfitrión5"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casita-en-campo-masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa menos lujosa de HSG-7",
 		"direccion": "789 Avenida Principal",
 		"ciudad": "Ciudad Moderna",
 		"pais": "País Urbano",
-		"precioPorNoche": 290,
+		"precio": 290.0,
 		"moneda": "USD",
-		"capacidad": 20,
-		"habitaciones": "6",
-		"banos": "4",
-		"amenidades": [
-			"Piscina",
-			"Gimnasio",
-			"Terraza con vista",
-			"WiFi",
-			"Bar",
-			"Empleados"
-		],
 		"calificacion": 4.8,
-		"numeroDeCalificaciones": 56,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448292/api-puntos/casa-de-hgs7-masna.jpg"
-		],
-		"descripcion": "Lujosa casa con todas las comodidades imaginables.",
-		"anfitrion": "Anfitrión HSG7"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448292/api-puntos/casa-de-hgs7-masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa de Playa",
 		"direccion": "303 Calle Tropiquin",
 		"ciudad": "Ciudad Playa",
 		"pais": "Chile",
-		"precioPorNoche": 160,
+		"precio": 160.0,
 		"moneda": "USD",
-		"capacidad": 8,
-		"habitaciones": "4",
-		"banos": "3",
-		"amenidades": ["Acceso a la playa", "Balcón con vista al mar"],
 		"calificacion": 4.6,
-		"numeroDeCalificaciones": 28,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-frente-playa-masna.jpg"
-		],
-		"descripcion": "Casa con encanto en el corazón de la ciudad histórica.",
-		"anfitrion": "Anfitrión6"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-frente-playa-masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Cabaña frente a la playa",
 		"direccion": "22 Paseo Marítimo",
 		"ciudad": "Ciudad Costera",
 		"pais": "País Playero",
-		"precioPorNoche": 120,
+		"precio": 120.0,
 		"moneda": "USD",
-		"capacidad": 4,
-		"habitaciones": "2",
-		"banos": "1",
-		"amenidades": ["Acceso a la playa", "Balcón con vista al mar"],
 		"calificacion": 4.8,
-		"numeroDeCalificaciones": 32,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448790/api-puntos/cabanias-playa-masna.webp"
-		],
-		"descripcion": "Apartamento frente al mar para unas vacaciones inolvidables.",
-		"anfitrion": "Anfitrión7"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448790/api-puntos/cabanias-playa-masna.webp",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa moderna en las montañas",
 		"direccion": "55 Camino del Bosque",
 		"ciudad": "Ciudad Boscosa",
 		"pais": "País Natural",
-		"precioPorNoche": 80,
+		"precio": 80.0,
 		"moneda": "USD",
-		"capacidad": 2,
-		"habitaciones": "1",
-		"banos": "1",
-		"amenidades": ["Rodeada de árboles", "Senderos para caminar"],
 		"calificacion": 4.2,
-		"numeroDeCalificaciones": 18,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-altura-montania-masna.jpg"
-		],
-		"descripcion": "Cabaña acogedora en medio del bosque para escapar del bullicio.",
-		"anfitrion": "Anfitrión9"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-altura-montania-masna.jpg",
+		"date": "04-12-2023"
 	},
 	{
 		"nombre": "Casa del Perro de HSG7",
 		"direccion": "10 Cerro Alto",
 		"ciudad": "Ciudad Moderna",
 		"pais": "País Escénico",
-		"precioPorNoche": 200,
+		"precio": 200.0,
 		"moneda": "USD",
-		"capacidad": 6,
-		"habitaciones": "3",
-		"banos": "2",
-		"amenidades": ["Vistas panorámicas", "Terraza amplia", "Barbacoa"],
 		"calificacion": 4.9,
-		"numeroDeCalificaciones": 38,
-		"imagenes": [
-			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701446730/api-puntos/casa_moderna_t3ocpj.jpg"
-		],
-		"descripcion": "Casa con impresionantes vistas panorámicas de la montaña.",
-		"anfitrion": "Perro de HSG7"
+		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701446730/api-puntos/casa_moderna_t3ocpj.jpg",
+		"date": "04-12-2023"
 	}
 ]

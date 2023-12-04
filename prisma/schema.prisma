@@ -11,25 +11,18 @@ datasource db {
 }
 
 model Propiedad {
-  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
-  nombre                 String
-  direccion              String
-  ciudad                 String
-  pais                   String
-  precioPorNoche         Int
-  moneda                 String
-  capacidad              Int?
-  habitaciones           String?
-  banos                  String?
-  amenidades             String[]
-  calificacion           Float?
-  numeroDeCalificaciones Int?
-  imagenes               String[]
-  date                   DateTime?
-  descripcion            String?
-  anfitrion              String
-  createdAt              DateTime  @default(now())
-  updatedAt              DateTime  @updatedAt
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  nombre       String
+  direccion    String
+  ciudad       String
+  pais         String
+  precio       Float
+  moneda       String
+  calificacion Float
+  imagen       String
+  date         String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
 
   @@map("propiedades_masna")
 }

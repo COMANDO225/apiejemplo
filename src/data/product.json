@@ -1,0 +1,202 @@
+[
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780895/turistapp/lima_bici_xlufrq.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Explora la rica historia y cultura de la vibrante capital peruana.",
+		"price": 450,
+		"discount": 0.1,
+		"averageRating": 4.5
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780895/turistapp/TunkiLodge_Pasco_23012023_2C_gckqxt.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Disfruta de un día completo de aventuras en la ciudad de los reyes.",
+		"price": 550,
+		"discount": 0.15,
+		"averageRating": 4.6
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780895/turistapp/Huaraz_Maravilla_13032023_C-1_t0asep.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Saborea la famosa gastronomía limeña en este tour culinario único.",
+		"price": 300,
+		"discount": 0.2,
+		"averageRating": 4.7
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780895/turistapp/Huaraz_Maravilla_13032023_C-1_t0asep.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Visita los lugares más icónicos de Lima con guías expertos.",
+		"price": 400,
+		"discount": 0.05,
+		"averageRating": 4.8
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780895/turistapp/oxapampa_2209-01_bbmzm6.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Descubre los secretos escondidos en los barrios históricos de Lima.",
+		"price": 500,
+		"discount": 0.1,
+		"averageRating": 4.4
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780894/turistapp/Loreto-AmazonAndes_13012023-2C-1_zce65y.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Un recorrido por la vida nocturna y los espectáculos culturales de Lima.",
+		"price": 600,
+		"discount": 0.25,
+		"averageRating": 4.3
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780893/turistapp/selva-central_6-3_amjoga.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Conoce la Lima moderna, desde centros comerciales hasta arte callejero.",
+		"price": 350,
+		"discount": 0.2,
+		"averageRating": 4.2
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780893/turistapp/Huaraz_Maravilla_13032023_C-3_kbw0yy.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Exploración del distrito de Miraflores y su encantador malecón.",
+		"price": 320,
+		"discount": 0.15,
+		"averageRating": 4.1
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780893/turistapp/churin-aventura_qu4og1.jpg"
+		],
+		"title": "Promoción de tour Churin",
+		"description": "Vive la historia de Lima visitando la Huaca Pucllana y otros sitios arqueológicos.",
+		"price": 450,
+		"discount": 0.3,
+		"averageRating": 4.5
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780891/turistapp/selva-central_6-1_vzl8v6.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Aventura culinaria por el Mercado Central y Barrio Chino.",
+		"price": 275,
+		"discount": 0.1,
+		"averageRating": 4.6
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/Lagosandoval_Manutambopata_24012023_3C_fbdmn8.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Explora la rica historia y cultura de la vibrante capital peruana.",
+		"price": 450,
+		"discount": 0.1,
+		"averageRating": 4.5
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/Tambopata_Greenhouse_03022023_C_ncq6wv.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Disfruta de un día completo de aventuras en la ciudad de los reyes.",
+		"price": 550,
+		"discount": 0.15,
+		"averageRating": 4.6
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/5-21-820x373_lunyui.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Saborea la famosa gastronomía limeña en este tour culinario único.",
+		"price": 300,
+		"discount": 0.2,
+		"averageRating": 4.7
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780891/turistapp/selva-central_6-2_fzhtnt.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Visita los lugares más icónicos de Lima con guías expertos.",
+		"price": 400,
+		"discount": 0.05,
+		"averageRating": 4.8
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/oferta-sl-2-callao-historias-pescadores-colores-sabores-chalacos_fd2767.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Descubre los secretos escondidos en los barrios históricos de Lima.",
+		"price": 500,
+		"discount": 0.1,
+		"averageRating": 4.4
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/Loreto-AmazonAndes_13012023-2C-3_wnqoos.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Un recorrido por la vida nocturna y los espectáculos culturales de Lima.",
+		"price": 600,
+		"discount": 0.25,
+		"averageRating": 4.3
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/Tambopata_Greenhouse_03022023_C-2_oocvij.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Conoce la Lima moderna, desde centros comerciales hasta arte callejero.",
+		"price": 350,
+		"discount": 0.2,
+		"averageRating": 4.2
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/MACHUPICCHU_20210720_2-1_n1ssbz.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Exploración del distrito de Miraflores y su encantador malecón.",
+		"price": 320,
+		"discount": 0.15,
+		"averageRating": 4.1
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780892/turistapp/MACHUPICCHU_20210720_2-1_n1ssbz.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Vive la historia de Lima visitando la Huaca Pucllana y otros sitios arqueológicos.",
+		"price": 450,
+		"discount": 0.3,
+		"averageRating": 4.5
+	},
+	{
+		"image": [
+			"https://res.cloudinary.com/dloxah9k4/image/upload/v1701780891/turistapp/cusco-imperial_21072022_14-2_xh8n5j.jpg"
+		],
+		"title": "Promoción de tour Lima",
+		"description": "Aventura culinaria por el Mercado Central y Barrio Chino.",
+		"price": 275,
+		"discount": 0.1,
+		"averageRating": 4.6
+	}
+]

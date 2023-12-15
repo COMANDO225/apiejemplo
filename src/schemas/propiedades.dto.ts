@@ -10,6 +10,8 @@ export const PropiedadSchema = z.object({
 	calificacion: z.number(),
 	imagen: z.string().min(3).max(255),
 	date: z.string().min(3).max(255),
+	latitud: z.number(),
+	longitud: z.number(),
 });
 
 // ahora que valide muchas propiedades

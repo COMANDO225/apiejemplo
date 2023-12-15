@@ -7,7 +7,26 @@ const prisma = new PrismaClient();
 export async function GET(request: NextRequest, response: NextResponse) {
 	try {
 		const propiedades = await prisma.propiedad.findMany();
-		return NextResponse.json(propiedades);
+
+		const formattedPropiedades = propiedades.map((propiedad) => ({
+			nombre: propiedad.nombre,
+			direccion: propiedad.direccion,
+			location: {
+				country: propiedad.pais,
+				city: propiedad.ciudad,
+			},
+			precio: propiedad.precio,
+			moneda: propiedad.moneda,
+			calificacion: propiedad.calificacion,
+			imagen: propiedad.imagen,
+			date: propiedad.date,
+			latitud: propiedad.latitud,
+			longitud: propiedad.longitud,
+		}));
+
+		return NextResponse.json({
+			places: formattedPropiedades,
+		});
 	} catch (error) {
 		console.log(error);
 		return NextResponse.json("Error");

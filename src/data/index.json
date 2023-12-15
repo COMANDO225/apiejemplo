@@ -8,7 +8,9 @@
 		"moneda": "USD",
 		"calificacion": 100.0,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701447735/api-puntos/casita-de-anderson--masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Cabaña de Madera",
@@ -19,7 +21,9 @@
 		"moneda": "USD",
 		"calificacion": 4.8,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-madera-parece-gato.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa con Jardín y Vista al Mar",
@@ -30,7 +34,9 @@
 		"moneda": "USD",
 		"calificacion": 4.5,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-jardin-vista-playa-masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa triangular en el bosque",
@@ -41,7 +47,9 @@
 		"moneda": "USD",
 		"calificacion": 4.9,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-triangular-madera-masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa de Campo",
@@ -52,7 +60,9 @@
 		"moneda": "USD",
 		"calificacion": 4.7,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casita-en-campo-masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa menos lujosa de HSG-7",
@@ -63,7 +73,9 @@
 		"moneda": "USD",
 		"calificacion": 4.8,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448292/api-puntos/casa-de-hgs7-masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa de Playa",
@@ -74,7 +86,9 @@
 		"moneda": "USD",
 		"calificacion": 4.6,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-frente-playa-masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Cabaña frente a la playa",
@@ -85,7 +99,9 @@
 		"moneda": "USD",
 		"calificacion": 4.8,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448790/api-puntos/cabanias-playa-masna.webp",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa moderna en las montañas",
@@ -96,7 +112,9 @@
 		"moneda": "USD",
 		"calificacion": 4.2,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701448791/api-puntos/casa-altura-montania-masna.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	},
 	{
 		"nombre": "Casa del Perro de HSG7",
@@ -107,6 +125,8 @@
 		"moneda": "USD",
 		"calificacion": 4.9,
 		"imagen": "https://res.cloudinary.com/dloxah9k4/image/upload/v1701446730/api-puntos/casa_moderna_t3ocpj.jpg",
-		"date": "04-12-2023"
+		"date": "04-12-2023",
+		"latitud": -12.055,
+		"longitud": -77.085
 	}
 ]
